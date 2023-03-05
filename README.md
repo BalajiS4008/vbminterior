@@ -1,4 +1,4 @@
-# Rajeswari Interiors Website
+# VBM Interiors Website
 
 Desktop - https://www.figma.com/proto/BF2WyTV9eDlQ5aPU6kLomN/SriRajaRajeswari?page-id=0%3A1&node-id=117%3A75&viewport=82%2C2301%2C0.5270286202430725&scaling=min-zoom
 
